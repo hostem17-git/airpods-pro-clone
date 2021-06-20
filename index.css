@@ -16,3 +16,7 @@ canvas {
     transform: translate(-50%, -50%);
     
 }
+::-webkit-scrollbar {
+    display: none;
+  }
+  
